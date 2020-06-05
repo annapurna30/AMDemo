@@ -2,7 +2,7 @@
 public class t {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Tes 1111562020");
+		System.out.println("Te11562020");
 
 	}
 
